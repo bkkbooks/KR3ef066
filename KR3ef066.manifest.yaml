@@ -1,0 +1,178 @@
+canonical_identifier: bkk:krp/KR3ef066/v1
+canonical_location: https://kanripo.org/bkk/KR3ef066/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒醫訣串解
+  identifiers:
+    krp: KR3ef066
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef066.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef066_000.yaml, hash: 'sha256:50e65c248f4d0efb850b53061bf292e38deead10ca63cf62fbd0a881b916336f'}
+  - {seq: 1, filename: KR3ef066_001.yaml, hash: 'sha256:5afff63585c46f1031e0c3122cc750c505d5273ac3c11a99c710108d4c3cc123'}
+  - {seq: 2, filename: KR3ef066_002.yaml, hash: 'sha256:edec101aaf262639aff3b0c47bf6e2a243918f63bd23cede5c428002f20917e8'}
+  - {seq: 3, filename: KR3ef066_003.yaml, hash: 'sha256:3382737831b58e53c6d316cee6185fdcf37f20942d5985f20dff5b554fea9161'}
+  - {seq: 4, filename: KR3ef066_004.yaml, hash: 'sha256:5a11cf428305163c4811b7637cd8880af372e792b00a6371c9a602f1e13f186b'}
+  - {seq: 5, filename: KR3ef066_005.yaml, hash: 'sha256:ce85b875eddc1f36fe2ea09a9c3ba14b720bf4f6180a441801de97665ef0e610'}
+  - {seq: 6, filename: KR3ef066_006.yaml, hash: 'sha256:2a2b73eac1e6eaa5adbee09ba1560e47ac2c129b3fb135c8cb3d317b2b88c7e5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef066_000.markers.yaml, hash: 'sha256:30ffb2f32be39558aedb7f35111fb1106299bd75fd77c42ea5e7d0354f9063f4'}
+  - {seq: 1, role: markers, filename: assets/KR3ef066_001.markers.yaml, hash: 'sha256:0a9c9abad10efa47d3cbcbd4ecdfc44456b5adb59bfd4665a61c2743b88753da'}
+  - {seq: 2, role: markers, filename: assets/KR3ef066_002.markers.yaml, hash: 'sha256:6657ef4f95980ceff5dd5b17d0a7bcc5355c6e88a3c494b5974c84f4c8193f48'}
+  - {seq: 3, role: markers, filename: assets/KR3ef066_003.markers.yaml, hash: 'sha256:f8a24abe5715fd6d09b094e71c13b3a88a7f2ce977912b5f8ecf6d6f2647da9d'}
+  - {seq: 5, role: markers, filename: assets/KR3ef066_005.markers.yaml, hash: 'sha256:0114ff93808b1ec605f5360c1127ab27f3000748878eaab12a4fd83f72f0f528'}
+  - {seq: 6, role: markers, filename: assets/KR3ef066_006.markers.yaml, hash: 'sha256:a457beddcde2a55d48ab1e132b4f63209f884c738de4847d3f8bbabc24a65072'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef066_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 401
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef066_jc_000-d3.h1s1
+    span:
+    - front
+    - 401
+    - 535
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef066_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 3928
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef066_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 3928
+  label: 太陽篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef066_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 5148
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef066_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 5148
+  label: 陽明篇
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef066_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 3362
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef066_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 3362
+  label: 少陽篇
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef066_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 1483
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef066_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 1483
+  label: 太陰篇
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef066_jc_005-d8.h1s1
+    span:
+    - body
+    - 0
+    - 5124
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ef066_jc_005-d8d2
+    span:
+    - body
+    - 2
+    - 5124
+  label: 少陰篇
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ef066_jc_006-d9.h1s1
+    span:
+    - body
+    - 0
+    - 6622
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ef066_jc_006-d9d2
+    span:
+    - body
+    - 2
+    - 6622
+  label: 厥陰篇
+  type: section
+  level: 2
+hash: sha256:3290b66846ad2868ed4ad18bddef3112830600a73cedc524db32e9b7ddaadc8c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
