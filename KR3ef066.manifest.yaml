@@ -30,7 +30,7 @@ assets:
   - {seq: 2, role: markers, filename: assets/KR3ef066_002.markers.yaml, hash: 'sha256:930ac812312f0144128a6b208fb6252d9aa42bee67487bc41051387f4ac38663'}
   - {seq: 3, role: markers, filename: assets/KR3ef066_003.markers.yaml, hash: 'sha256:2049fd3dec47943a7ec57c6adde0175c4459d0b6372a90635bd8c0dc1fcf5364'}
   - {seq: 4, role: markers, filename: assets/KR3ef066_004.markers.yaml, hash: 'sha256:146bb5e8c41627ac8a5b814bf271c74c81f0a5eef6ce6ba0ce32804efb941e69'}
-  - {seq: 5, role: markers, filename: assets/KR3ef066_005.markers.yaml, hash: 'sha256:5020e658120421457f5825a3ed6a61519b38415323b646e4392c200dbdcce106'}
+  - {seq: 5, role: markers, filename: assets/KR3ef066_005.markers.yaml, hash: 'sha256:b0f1e16f10f298fc9bb8cdb1a02b269fa1d1e84688188411bc50e7a7d21a7fb4'}
   - {seq: 6, role: markers, filename: assets/KR3ef066_006.markers.yaml, hash: 'sha256:358f65548da666b372d40b497529225b6ea88b11f594581ded7dbbb0db033de8'}
 table_of_contents:
 - ref:
@@ -173,7 +173,7 @@ table_of_contents:
   label: 厥陰篇
   type: section
   level: 2
-hash: sha256:da8d405b35e138b9d058b4b8651e5d0440cd5c7d271e7fd638ffb48c11dd6d7e
+hash: sha256:dc9c28d98d7c2cc200088d3bf03e3144020eb050741ead44986c1ebbfae16e5a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
