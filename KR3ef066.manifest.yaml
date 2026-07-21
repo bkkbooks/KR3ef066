@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef066_000.yaml, hash: 'sha256:50e65c248f4d0efb850b53061bf292e38deead10ca63cf62fbd0a881b916336f'}
+  - {seq: 0, filename: KR3ef066_000.yaml, hash: 'sha256:fd6ae406ab46a56cbea279c1f1e4273af5585d1b7da6c3abd7342efe79a0ab8b'}
   - {seq: 1, filename: KR3ef066_001.yaml, hash: 'sha256:5afff63585c46f1031e0c3122cc750c505d5273ac3c11a99c710108d4c3cc123'}
   - {seq: 2, filename: KR3ef066_002.yaml, hash: 'sha256:00ae71bf9d33a93a67f379618bc86171eaadbe445d4c1df338fa4e81c61b7901'}
   - {seq: 3, filename: KR3ef066_003.yaml, hash: 'sha256:37e627fb2bdcd4700f604082eba0a433d130be65b350b63416e55b0415f7688b'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3ef066_005.yaml, hash: 'sha256:ce85b875eddc1f36fe2ea09a9c3ba14b720bf4f6180a441801de97665ef0e610'}
   - {seq: 6, filename: KR3ef066_006.yaml, hash: 'sha256:21c66663d41ff521b655b14e252acef277fccc9cf3ba009985a8d05d0fbdb8a3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef066_000.markers.yaml, hash: 'sha256:23d3588105bbc7e7d00b7dc4ba247aa5c4efc359718977aeabf42e14f12e77c1'}
+  - {seq: 0, role: markers, filename: assets/KR3ef066_000.markers.yaml, hash: 'sha256:3d4b8a296806f81e259af00fef3490eba5931f647deb866815f9227a34cf9ca3'}
   - {seq: 1, role: markers, filename: assets/KR3ef066_001.markers.yaml, hash: 'sha256:0153b3f0e94666fffb87c24f8b1c31e885e02782f8c381e064a7d4d64d34b8e6'}
   - {seq: 2, role: markers, filename: assets/KR3ef066_002.markers.yaml, hash: 'sha256:930ac812312f0144128a6b208fb6252d9aa42bee67487bc41051387f4ac38663'}
   - {seq: 3, role: markers, filename: assets/KR3ef066_003.markers.yaml, hash: 'sha256:2049fd3dec47943a7ec57c6adde0175c4459d0b6372a90635bd8c0dc1fcf5364'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef066_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 401
   label: 序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef066_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 401
     - 535
   label: 序
@@ -173,7 +173,7 @@ table_of_contents:
   label: 厥陰篇
   type: section
   level: 2
-hash: sha256:dc9c28d98d7c2cc200088d3bf03e3144020eb050741ead44986c1ebbfae16e5a
+hash: sha256:18ca96a57230dcb7ff003e27618c4638566909c93cd435ab642fc2fcaf0c59cd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
